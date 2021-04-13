@@ -12,7 +12,7 @@
     "postversion": "npm publish",
     "postpublish": "git push origin --all; git push origin --tags"
   },
-  "repository": "git://github.com/isaacs/sax-js.git",
+  "repository": "git@git.stefanpuia.co.uk:stefanpuia/sax-js.git",
   "files": [
     "lib/sax.js",
     "LICENSE",
